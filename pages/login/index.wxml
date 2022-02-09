@@ -1,0 +1,1 @@
+<button open-type="getUserInfo" type="primary" plain="{{true}}" bindgetuserinfo="handleLogin">登录</button>

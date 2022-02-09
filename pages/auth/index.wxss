@@ -1,0 +1,4 @@
+button{
+    margin-top: 15rpx;
+    width: 70%;
+}
