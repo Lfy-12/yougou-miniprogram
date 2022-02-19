@@ -48,8 +48,8 @@
   },
   "compileType": "miniprogram",
   "libVersion": "2.19.4",
-  "appid": "wxa0e41afdce2dac5e",
-  "projectname": "yougo-minprogram",
+  "appid": "wx6972672e0cb4a9bc",
+  "projectname": "yougou-miniprogram",
   "debugOptions": {
     "hidedInDevtools": []
   },
